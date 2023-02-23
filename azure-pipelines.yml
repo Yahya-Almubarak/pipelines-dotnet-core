@@ -12,7 +12,7 @@ strategy:
       imageName: "ubuntu-latest"
     mac:
       imageName: "macOS-latest"
-    windows:
+    window:
       imageName: "windows-latest"
   maxParallel: 3
 
